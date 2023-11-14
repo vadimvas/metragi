@@ -635,7 +635,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f2f2f2;
+  background: white;
   padding: 15px 0;
   text-align: center;
 }
